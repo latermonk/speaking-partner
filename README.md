@@ -1,0 +1,2 @@
+# speaking-partner
+写一段使用chatgpt做雅思口语考试考官进行考试模拟的提示词prompt
